@@ -12,4 +12,4 @@ This Python script is a command-line calculator that allows users to perform bas
 ## Installation
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/yuktah01/.git
+   git clone https://github.com/yuktah01/CODSOFT/blob/main/task2
