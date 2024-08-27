@@ -10,6 +10,6 @@ This Python script is a command-line calculator that allows users to perform bas
 - **Division**: Continuously divide an initial value by subsequent numbers until `=` is entered (with zero division handling).
 
 ## Installation
-1. **Clone the repository** (if applicable):
+1) **Clone the repository** (if applicable):
    ```bash
    https://github.com/yuktah01/CODSOFT/blob/main/task2
