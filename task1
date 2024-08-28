@@ -41,7 +41,7 @@ frame.pack(pady=10)
 entry_label = tkr.Label(frame, text="Enter a new to-do task:")
 entry_label.pack()
 
-entry = tkr.Entry(frame, width=50, bg="black", fg="white")
+entry = tkr.Entry(frame, width=50, bg="lightpink", fg="red")
 entry.pack(side=tkr.LEFT, padx=5)
 
 # Button to add the task
@@ -60,7 +60,7 @@ mark_button.pack(side=tkr.LEFT, padx=5)
 listbox_label = tkr.Label(app, text="Your To-Do List:")
 listbox_label.pack(pady=10)
 
-listbox = tkr.Listbox(app, width=100, height=15, bg="darkred", fg="white")
+listbox = tkr.Listbox(app, width=100, height=15, bg="lightblue", fg="darkblue")
 listbox.pack(pady=10)
 
 app.mainloop()
