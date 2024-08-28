@@ -1,6 +1,6 @@
 # Simple Command-Line Calculator
 
-## Description
+## Overview
 This Python script is a command-line calculator that allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division. It prompts the user to select an operation and enter numbers interactively. The user can continue entering numbers until they type `=` to complete the operation.
 
 ## Features
