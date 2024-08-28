@@ -64,8 +64,3 @@ listbox = tkr.Listbox(app, width=100, height=15, bg="lightblue", fg="darkblue")
 listbox.pack(pady=10)
 
 app.mainloop()
-
-listbox = tkr.Listbox(app, width=100, height=15, bg="darkred", fg="white")
-listbox.pack(pady=10)
-
-app.mainloop()
